@@ -5,3 +5,6 @@
 - 3、修改hosts文件，添加127.0.0.1    testallen.com
 - 4、项目使用baomidou单点登录kisso，mybatisplus，spring mvc4
 - 5、测试账号:admin/123456
+截图
+![](a1.png)
+![](a2.png)
